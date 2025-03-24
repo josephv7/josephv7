@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Varghese</h1>
-<h3 align="center">A full-stack engineer with experience in backend development, focusing on Ruby on Rails, Node.js, and cloud technologies.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josephv7&label=Profile%20views&color=0e75b6&style=flat" alt="josephv7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josephv7" alt="josephv7" /></a> </p>
+<h3 align="center">A full-stack engineer focusing on backend development, with experience in Ruby on Rails, Node.js, React.js and cloud technologies.</h3>
 
 - 🌱 I’m currently learning **more about cloud operations, devops and system scalability.**
 
